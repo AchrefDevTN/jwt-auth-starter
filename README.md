@@ -1,6 +1,6 @@
 # JWT Authentication Starter
 
-![JWT Authentication](https://miro.medium.com/v2/resize:fit:743/1*dm00QProOdGxcV9gv0RX_w.png)
+![JWT Authentication](https://miro.medium.com/v2/resize:fit:4800/format:webp/1*dm00QProOdGxcV9gv0RX_w.png)
 
 ## Overview
 
